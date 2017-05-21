@@ -17,14 +17,10 @@
     "install-node": "6.9.2"
   },
   "dependencies": {
-    "antd": "^2.9.1",
-    "classnames": "^2.2.5",
-    "currency-formatter": "^1.2.1",
+    "antd": "^2.10.0",
     "debug": "^2.6.3",
     "dva": "^1.2.1",
-    "immutable": "^3.8.1",
-    "lodash": "^4.17.4",
-    "react": "^15.4.0",
+    "react": "^15.5.4",
     "react-dom": "^15.4.0"
   },
   "devDependencies": {
